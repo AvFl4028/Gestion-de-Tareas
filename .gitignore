@@ -1,0 +1,4 @@
+venv/
+db.sqlite3
+gestion_tareas/__pycache__
+website/__pycache__
